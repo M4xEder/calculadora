@@ -1,0 +1,50 @@
+body{
+    background-color: lightsalmon;
+    font-family: sans-serif;
+    font-size:15px;
+}
+#container{
+    width: 370px;
+    height: 540px;
+    margin: 40px auto;
+    background-color:aliceblue;
+    box-shadow: 0 0 30px black;
+    border-radius:20px;
+}
+.tit{
+    background-color:silver;
+    text-align: center;
+    font-size: 17px;
+    padding:4px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.sty_for{
+    margin: 0 auto;
+    border-top: 8px solid black;
+    padding: 30px;
+}
+#n1, #n2, #op{
+    margin-block-start: 1em;
+    margin-inline-start: 10px;
+    padding: 5px;
+    border-radius: 8px solid silver;
+}
+.sty_Res{
+    text-align: center;
+   /* background-color: silver;*/
+    padding: 1rem;
+    border-top: 8px solid black; 
+}
+#saida{
+    
+    text-align: center;
+}
+.sty_calc{
+    display: block;
+   margin: 10px auto;
+    padding: 8px 20px;
+    background: lightsalmon;
+    border-radius: 8px;
+    font-weight:bold;
+}
